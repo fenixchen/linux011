@@ -1,0 +1,1 @@
+E:\Linux\mingw-insight-6.3\bin\insight tools\system.exe 

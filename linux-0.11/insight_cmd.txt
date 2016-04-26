@@ -1,0 +1,4 @@
+target remote :1234
+handle SIGSEGV noprint nostop ignore
+break start
+
